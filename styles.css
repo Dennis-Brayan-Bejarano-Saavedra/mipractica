@@ -8,8 +8,13 @@ body {
 }
 
 header, footer {
+<<<<<<< HEAD
     background: #333;
     color: #cee073;
+=======
+    background: #e31313;
+    color: #fff;
+>>>>>>> dev2
     padding: 1rem;
     text-align: center;
 }
